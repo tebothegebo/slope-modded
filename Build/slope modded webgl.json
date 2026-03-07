@@ -1,0 +1,12 @@
+{
+"companyName": "Slope Plus",
+"productName": "Slope Plus",
+"dataUrl": "slope modded webgl.data.unityweb",
+"wasmCodeUrl": "slope modded webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "slope modded webgl.wasm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}
